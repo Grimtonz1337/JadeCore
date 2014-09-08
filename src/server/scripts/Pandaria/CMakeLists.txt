@@ -60,10 +60,8 @@ set(scripts_STAT_SRCS
   Pandaria/MogushanVault/boss_elegon.cpp
   Pandaria/MogushanVault/boss_will_of_emperor.cpp
 
-  Pandaria/WanderingIsland/WanderingIsland_North.cpp
-  Pandaria/WanderingIsland/WanderingIsland_East.cpp
-  Pandaria/WanderingIsland/WanderingIsland_West.cpp
-  Pandaria/WanderingIsland/WanderingIsland_South.cpp
+  Pandaria/WanderingIsland/zone_wandering_isle.cpp
+  Pandaria/WanderingIsland/zone_wandering_isle.h
 
   Pandaria/townlong_steppes.cpp
   Pandaria/dread_wastes.cpp
